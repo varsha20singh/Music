@@ -1,0 +1,147 @@
+.tune{
+text-align: center;
+display: block;
+padding-bottom: 13%;
+background-image: url(music\ image.jpeg);
+background-size: cover;
+    }
+    .music{
+text-align: center;
+padding-left: 10%;
+padding-right: 10%;
+padding-top: 2%;
+padding-bottom: 5%;
+background-color: #252529;
+display: block;
+}
+h1{
+    padding-top: 10%;
+    display: block;
+    font-size: 4rem;
+    color: #fff;
+    margin-bottom: 25px;
+}
+h2{
+    display: block;
+    font-size: 2rem;
+    margin-top: 15px;
+    color: #fff;
+}
+h3{
+    display: block;
+    block-size: 2rem;
+    color: #fff;
+    margin-top: 10px;
+}
+p{
+    display: block;
+    font-size: 1.3rem;
+    margin-top: 30px;
+    color: #fff;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+.fa-music{
+color: #fff;
+}
+.btn{
+    margin-top: 8px;
+    padding: 1rem;
+}
+.text-light{
+    font-size: medium;
+}
+.mockup{
+    text-align: center;
+    width: 90%;
+
+}
+.btn-secondary{
+    color: #fff;
+    padding: 1rem;
+    display: inline-block;
+    background-color: blue;
+    border-radius: 0px;
+}
+.sec{
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 3%;
+}
+.grey{
+    color: #252529;
+    margin-bottom: 30px;
+}
+.greyp{
+color: #252529;
+margin-bottom: 30px;
+}
+.shine{
+    text-align: center;
+    padding-top: 13%;
+    padding-bottom: 12%;
+    background-image: url(section-bg.jpeg);
+}
+.shine p{
+    margin-top: 60px;
+}
+.card-text{
+    color: #252529;
+    display: block;
+    padding: 10% 6% 6% 6%;
+    margin-bottom: 60px;
+}
+    .cardimg{
+        width: 40%;
+        float: left;
+        margin: 30px;
+        margin-right: 80px;
+    }
+    .text{
+        color: #252529;
+    }
+    .textp{
+        color: #252529;
+        font-size: medium;
+        
+    }
+    .footer{
+        background-color: #252529;
+        padding-top: 3%;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .row{
+        padding-left: 10px;
+        padding-right: 10px;
+        text-align: center;
+        display: block;
+    }
+    .foot-box{
+        text-align: left;
+        margin-right: 10px;
+        color: #fff;
+        display: inline-block;
+        font-size: 14px;
+    }
+    .last{
+        background-color: #444941;
+        text-align: center;
+        width: 100%;
+        padding-top: 0.5px;
+        padding-bottom: 1px;
+    }
+    .last p{
+        font-size: medium;
+    }
+    .navbar{
+        width: 100%;
+        position: fixed;
+        color: #fff;
+    }
+    .nav-item{
+        color: #fff;
+    }
+    #navbarNav{
+        color:#fff
+    }
